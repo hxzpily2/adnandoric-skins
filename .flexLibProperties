@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.adnandoric.skins.buttons.SmallGrayBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallBlueBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallRedBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallGreenBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.LargeGreenBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.LargeBlueBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallWhiteBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.LargeWhiteBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.LargeRedBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.LargeGrayBtnSkin"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
