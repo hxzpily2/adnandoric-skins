@@ -6,7 +6,7 @@ Apache Flex spark button skins for Flex, AIR and mobile projects
 Copy the `adnandoric-skins.swc` (versioned in `/bin` folder) to your project's `/lib` folder.
 
 ### Usage
-`<s:Button buttonMode="true" label="My Button" skinClass="com.adnandoric.skins.buttons.SmallBlueBtnSkin" />`
+Please visit the Github page http://adnandoric.github.io/adnandoric-skins/ for examples end usage information.
 
 ### Licence
 
