@@ -11,6 +11,12 @@
     <classEntry path="com.adnandoric.skins.buttons.LargeWhiteBtnSkin"/>
     <classEntry path="com.adnandoric.skins.buttons.LargeRedBtnSkin"/>
     <classEntry path="com.adnandoric.skins.buttons.LargeGrayBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallBlackBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallDarkBlueBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallIndigoBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallOrangeBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallYellowBtnSkin"/>
+    <classEntry path="com.adnandoric.skins.buttons.SmallVioletBtnSkin"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>

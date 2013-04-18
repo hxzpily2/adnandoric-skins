@@ -22,13 +22,13 @@
 		source.disabled="@Embed(source='/img/large_gray_btn_up.png', scaleGridTop='0', scaleGridBottom='30', scaleGridLeft='16', scaleGridRight='82')"
 		/>
 	
-	<s:Label id="labelDisplay" left="32" right="32" verticalCenter="0"
+	<s:Label id="labelDisplay" left="24" right="24" verticalCenter="1"
 		textAlign="center"
 		verticalAlign="middle"
 		fontWeight="bold"
-		fontSize="16"
+		fontSize="14"
 		maxDisplayedLines="1"
-		color="0xffffff"
+		color="0xeeeeee"
 		color.over="0xffffff"
 		color.down="0xffffff"
 		color.disabled="0x666666"

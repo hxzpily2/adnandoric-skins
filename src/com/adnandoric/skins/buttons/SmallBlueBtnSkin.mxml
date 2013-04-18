@@ -23,7 +23,7 @@
 		source.disabled="@Embed(source='/img/small_blue_btn_up.png', scaleGridTop='0', scaleGridBottom='26', scaleGridLeft='16', scaleGridRight='68')"
 		/>
 	
-	<s:Label id="labelDisplay" left="16" right="16" verticalCenter="0"
+	<s:Label id="labelDisplay" left="16" right="16" verticalCenter="1"
 		textAlign="center"
 		verticalAlign="middle"
 		fontWeight="bold"
