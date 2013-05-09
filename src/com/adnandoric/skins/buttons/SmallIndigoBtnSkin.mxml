@@ -32,7 +32,7 @@
 		color="0xeeeeee"
 		color.over="0xffffff"
 		color.down="0xffffff"
-		color.disabled="0x666666"
+		color.disabled="0x999999"
 		/>
 	
 </s:SparkSkin>
